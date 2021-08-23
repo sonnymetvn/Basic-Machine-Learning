@@ -1,8 +1,1 @@
-# resnet
-
-sonny
-
-sonny.
-
-
-sonnny.e
+# basic machine learning
